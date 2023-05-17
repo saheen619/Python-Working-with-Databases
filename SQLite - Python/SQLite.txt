@@ -17,3 +17,8 @@ Here are some of the benefits of using SQLite:
     Reliability: SQLite is a very reliable database, and it has been used in production applications for many years.
 
 If you are looking for a small, fast, and easy-to-use database, then SQLite is a good choice.
+
+
+
+ACCESS SQLite using a GUI:
+DB Browser for SQLite:   https://sqlitebrowser.org/
