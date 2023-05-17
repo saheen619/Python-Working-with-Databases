@@ -1,0 +1,19 @@
+SQLite is a self-contained, serverless, zero-configuration, transactional SQL database engine. SQLite is the most widely deployed
+database in the world. SQLite is built into all mobile phones and most computers and comes bundled inside countless other applications 
+that people use every day.
+
+SQLite is a relational database management system (RDBMS) that uses a client-server architecture. The client is the application that 
+uses the database, and the server is the database itself. SQLite is a single-threaded database, which means that only one client can 
+access the database at a time.
+
+SQLite is a very popular database because it is small, fast, and easy to use. SQLite is also very reliable, and it has been used in 
+production applications for many years.
+
+Here are some of the benefits of using SQLite:
+
+    Small size: SQLite is a very small database, which makes it easy to embed in applications.
+    Fast speed: SQLite is a very fast database, which makes it ideal for applications that require high performance.
+    Ease of use: SQLite is very easy to use, even for developers who are not familiar with SQL.
+    Reliability: SQLite is a very reliable database, and it has been used in production applications for many years.
+
+If you are looking for a small, fast, and easy-to-use database, then SQLite is a good choice.
